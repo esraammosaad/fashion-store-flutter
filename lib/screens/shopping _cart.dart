@@ -113,7 +113,7 @@ Widget cartItem(
                   const Spacer(
                     flex: 2,
                   ),
-                  Text(
+                  itemsInCart[index].category=='bags'?const SizedBox(height: 0,): Text(
                     'size: ${itemsInCart[index].size}',
                     style: TextStyle(fontSize: 12, color: Colors.grey[800]),
                   ),

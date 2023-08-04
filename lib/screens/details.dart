@@ -117,7 +117,7 @@ class _DetailsState extends State<Details> {
                     const SizedBox(
                       height: 12,
                     ),
-                    SizedBox(
+                    details.category=='bags'?const Divider(): SizedBox(
                       height: 32,
                       child: ListView.builder(
                         itemBuilder: (context, index) {
