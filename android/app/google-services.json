@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735459455846",
+    "project_id": "shopbop-13400",
+    "storage_bucket": "shopbop-13400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735459455846:android:9ce8a569855ed78269cea7",
+        "android_client_info": {
+          "package_name": "com.example.fashion_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735459455846-du5mk4c47daks99po527ip8r9af7bhah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxfFa_YD_3eHuBD5L6F_2_pNrTQGurISo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735459455846-du5mk4c47daks99po527ip8r9af7bhah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
