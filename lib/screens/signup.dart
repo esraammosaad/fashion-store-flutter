@@ -168,8 +168,6 @@ class _SignUpState extends State<SignUp> {
                           print(value.id);
                         });
 
-
-
                         Navigator.push(
                             context,
                             MaterialPageRoute(
