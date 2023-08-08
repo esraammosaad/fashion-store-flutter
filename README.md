@@ -18,3 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 ## Demo of the application 🎥
 
 https://github.com/esraammosaad/fashion-store-flutter/assets/110772494/11a61573-d159-4d5d-b70e-aa7b0b37d2ed
+
+## Overview 📙
+https://github.com/esraammosaad/fashion-store-flutter/assets/110772494/693f3629-d2bf-4331-8681-13fb9cb1092a
